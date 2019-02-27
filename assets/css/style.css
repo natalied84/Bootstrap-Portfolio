@@ -1,0 +1,53 @@
+
+header  {
+    background-image: url(images/subtle-dots.png);
+}
+
+#AboutMePic {
+    margin: 15px 15px 0 0;
+}
+
+.navbar-brand-color  {
+    color: #563D7C;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.BG-Texture {
+    background-image: url(images/az-subtle.png);
+    background-color: #563D7C;
+    min-height: calc(100vh - 126px);
+ }
+
+.BoxColor   {
+    background-color: white;
+    background-image: url(images/subtle-dots.png);
+    width: 1108px;
+
+}
+
+
+p:nth-child(2) {
+    padding-top: 10px;
+}
+
+h1  {
+    border-bottom: 1px double #cccccc;
+    color: #563D7C;
+    width: 100%;
+}
+
+
+.ColorStrip {
+    background-color: #4aaaa5;
+    height: 4px;
+}
+
+.BottomBar  {
+    color: white;
+    background-color: #666666;
+    background-image: url("https://www.transparenttextures.com/patterns/mooning.png");
+    height: 60px;
+    text-align: center;
+    padding-top: 15px;
+}
